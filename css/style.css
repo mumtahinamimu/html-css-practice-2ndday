@@ -1,0 +1,71 @@
+h4{
+	color: green;
+	color: blue;
+	color: red;
+}
+
+h6{
+
+	color: blue;
+}
+
+
+.headone{
+	background-color: yellow;
+
+}
+
+.greencl{
+	border: 5px solid green;
+}
+
+#headone{
+	color: red;
+}
+
+#power{
+
+	color: blue;
+}
+
+.head2{
+
+	color: green;
+}
+
+/*
+
+it is css code commnting
+#power{
+
+	color: blue;
+}
+
+.head2{
+
+	color: green;
+}
+
+*/
+
+abbr{
+
+	display: inline;
+}
+
+address{
+	display: block;
+
+	font-style: italic;
+
+}
+
+.all-code-editors{
+	color: red;
+	background-color: yellow;
+}
+
+.code-editor{
+
+	color: blue;
+}
